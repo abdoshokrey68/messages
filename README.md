@@ -1,5 +1,3 @@
 # messages
-gitmessage
-
 ## learn git Hub
-
+### gitmessage
